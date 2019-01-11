@@ -1,0 +1,180 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="art2.png">
+	<!-- Created with Adobe Animate version 19.1.0.349 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="BtnArrow0000" x="1" y="1" width="51" height="60" pivotX="1.5" pivotY="1.5"/>
+	<SubTexture name="BtnBuy0000" x="53" y="1" width="148" height="77" pivotX="1.1" pivotY="1"/>
+	<SubTexture name="BtnCredits0000" x="202" y="1" width="50" height="49" pivotX="0" pivotY="0"/>
+	<SubTexture name="BtnEquip0000" x="253" y="1" width="166" height="77" pivotX="2.35" pivotY="0.3"/>
+	<SubTexture name="BtnGreen0000" x="53" y="1" width="148" height="77" pivotX="1.1" pivotY="1"/>
+	<SubTexture name="BtnGrey0000" x="420" y="1" width="149" height="78" pivotX="1.1" pivotY="1"/>
+	<SubTexture name="BtnInventory_0000" x="570" y="1" width="143" height="87" pivotX="1.5" pivotY="1.5"/>
+	<SubTexture name="BtnInventory_0001" x="714" y="1" width="143" height="87"/>
+	<SubTexture name="BtnSell0000" x="858" y="1" width="158" height="77" pivotX="1.1" pivotY="0"/>
+	<SubTexture name="BtnSettings0000" x="1" y="89" width="50" height="49" pivotX="0" pivotY="0"/>
+	<SubTexture name="BtnUnEquip0000" x="52" y="89" width="166" height="77" pivotX="2.5" pivotY="0.3"/>
+	<SubTexture name="Btn_English0000" x="219" y="89" width="63" height="64" pivotX="1" pivotY="1"/>
+	<SubTexture name="Btn_Google0000" x="283" y="89" width="147" height="56" pivotX="3.6" pivotY="3.45"/>
+	<SubTexture name="Btn_No0000" x="431" y="89" width="113" height="62" pivotX="0" pivotY="0"/>
+	<SubTexture name="Btn_Russian0000" x="545" y="89" width="64" height="63" pivotX="1" pivotY="1"/>
+	<SubTexture name="Btn_Sell0000" x="610" y="89" width="113" height="61" pivotX="0" pivotY="0"/>
+	<SubTexture name="Btn_Yes0000" x="724" y="89" width="113" height="62" pivotX="0" pivotY="0"/>
+	<SubTexture name="Btn_app0000" x="838" y="89" width="147" height="56" pivotX="3.6" pivotY="3.45"/>
+	<SubTexture name="Btn_armory0000" x="1" y="167" width="83" height="83" pivotX="1.05" pivotY="1"/>
+	<SubTexture name="Btn_back0000" x="85" y="167" width="62" height="61" pivotX="0" pivotY="0"/>
+	<SubTexture name="Btn_close0000" x="148" y="167" width="63" height="62" pivotX="1.2" pivotY="1.2"/>
+	<SubTexture name="Btn_continue0000" x="212" y="167" width="62" height="61" pivotX="0" pivotY="0"/>
+	<SubTexture name="Btn_forge0000" x="275" y="167" width="83" height="83" pivotX="1.05" pivotY="1"/>
+	<SubTexture name="Btn_map0000" x="359" y="167" width="62" height="61" pivotX="0" pivotY="0"/>
+	<SubTexture name="Btn_max0000" x="422" y="167" width="64" height="63" pivotX="1" pivotY="1"/>
+	<SubTexture name="Btn_menu0000" x="487" y="167" width="62" height="61" pivotX="1" pivotY="1"/>
+	<SubTexture name="Btn_min0000" x="550" y="167" width="63" height="63" pivotX="1" pivotY="1"/>
+	<SubTexture name="Btn_rate0000" x="614" y="167" width="62" height="61" pivotX="1" pivotY="1"/>
+	<SubTexture name="Btn_reset0000" x="677" y="167" width="62" height="62" pivotX="1" pivotY="1"/>
+	<SubTexture name="Btn_treasury0000" x="740" y="167" width="83" height="83" pivotX="1.05" pivotY="1"/>
+	<SubTexture name="CellBack0000" x="824" y="167" width="64" height="63" pivotX="-3" pivotY="-4"/>
+	<SubTexture name="CellBack0001" x="889" y="167" width="64" height="63"/>
+	<SubTexture name="CellBack0002" x="954" y="167" width="64" height="63"/>
+	<SubTexture name="CellBack0003" x="1" y="251" width="64" height="63"/>
+	<SubTexture name="CellHero0000" x="66" y="251" width="65" height="65" pivotX="-0.1" pivotY="-0.1"/>
+	<SubTexture name="CellHero0001" x="132" y="251" width="65" height="65"/>
+	<SubTexture name="CellHero0002" x="198" y="251" width="65" height="65"/>
+	<SubTexture name="CellHero0003" x="264" y="251" width="65" height="65"/>
+	<SubTexture name="CellHero0004" x="330" y="251" width="65" height="65"/>
+	<SubTexture name="CellLoot0000" x="396" y="251" width="73" height="73" pivotX="1" pivotY="1"/>
+	<SubTexture name="CellLoot0001" x="470" y="251" width="73" height="73"/>
+	<SubTexture name="CellLoot0002" x="544" y="251" width="73" height="73"/>
+	<SubTexture name="CoinPrice0000" x="618" y="251" width="39" height="30" pivotX="1.6" pivotY="1.6"/>
+	<SubTexture name="CoinPrice0000" x="658" y="251" width="36" height="28"/>
+	<SubTexture name="EmptyCell0000" x="695" y="251" width="67" height="66" pivotX="-0.1" pivotY="-0.1"/>
+	<SubTexture name="ExpBack0000" x="763" y="251" width="203" height="31" pivotX="0" pivotY="0"/>
+	<SubTexture name="ExpFrame0000" x="1" y="325" width="210" height="38" pivotX="1" pivotY="1"/>
+	<SubTexture name="ExpLine0000" x="212" y="325" width="203" height="31" pivotX="0" pivotY="0"/>
+	<SubTexture name="Face0_0000" x="416" y="325" width="90" height="91" pivotX="1" pivotY="1"/>
+	<SubTexture name="Face1_0000" x="507" y="325" width="90" height="91" pivotX="1" pivotY="1"/>
+	<SubTexture name="IcCoin0000" x="598" y="325" width="29" height="29" pivotX="-0.15" pivotY="-0.15"/>
+	<SubTexture name="IcCrystal0000" x="628" y="325" width="38" height="33" pivotX="1.05" pivotY="1"/>
+	<SubTexture name="IcKey0000" x="667" y="325" width="38" height="40" pivotX="2" pivotY="2"/>
+	<SubTexture name="IconArmor0000" x="706" y="325" width="73" height="73" pivotX="1" pivotY="1"/>
+	<SubTexture name="IconArmor0001" x="780" y="325" width="73" height="73"/>
+	<SubTexture name="IconArmor0002" x="854" y="325" width="73" height="73"/>
+	<SubTexture name="IconArmor0003" x="928" y="325" width="73" height="73"/>
+	<SubTexture name="IconArmor0004" x="1" y="417" width="73" height="73"/>
+	<SubTexture name="IconArmor0005" x="75" y="417" width="73" height="73"/>
+	<SubTexture name="IconArmor0006" x="149" y="417" width="73" height="73"/>
+	<SubTexture name="IconArmor0007" x="223" y="417" width="73" height="73"/>
+	<SubTexture name="IconArmor0008" x="297" y="417" width="73" height="73"/>
+	<SubTexture name="IconArmor0009" x="371" y="417" width="73" height="73"/>
+	<SubTexture name="IconArmor0010" x="445" y="417" width="73" height="73"/>
+	<SubTexture name="IconBoots0000" x="519" y="417" width="73" height="73" pivotX="1" pivotY="1"/>
+	<SubTexture name="IconBoots0001" x="593" y="417" width="73" height="73"/>
+	<SubTexture name="IconBoots0002" x="667" y="417" width="73" height="73"/>
+	<SubTexture name="IconBoots0003" x="741" y="417" width="73" height="73"/>
+	<SubTexture name="IconBoots0004" x="815" y="417" width="73" height="73"/>
+	<SubTexture name="IconBoots0005" x="889" y="417" width="73" height="73"/>
+	<SubTexture name="IconBoots0006" x="1" y="491" width="73" height="73"/>
+	<SubTexture name="IconBoots0007" x="75" y="491" width="73" height="73"/>
+	<SubTexture name="IconBoots0008" x="149" y="491" width="73" height="73"/>
+	<SubTexture name="IconBoots0009" x="223" y="491" width="73" height="73"/>
+	<SubTexture name="IconBoots0010" x="297" y="491" width="73" height="73"/>
+	<SubTexture name="IconBtn1_0000" x="371" y="491" width="55" height="49" pivotX="-13.1" pivotY="-18"/>
+	<SubTexture name="IconBtn2_0000" x="427" y="491" width="67" height="66" pivotX="-6.95" pivotY="-10.7"/>
+	<SubTexture name="IconBtn3_0000" x="495" y="491" width="64" height="66" pivotX="-9.6" pivotY="-7.8"/>
+	<SubTexture name="IconForge0000" x="560" y="491" width="76" height="77" pivotX="2.45" pivotY="3.6"/>
+	<SubTexture name="IconHelmet0000" x="637" y="491" width="73" height="73" pivotX="1" pivotY="1"/>
+	<SubTexture name="IconHelmet0001" x="711" y="491" width="73" height="73"/>
+	<SubTexture name="IconHelmet0002" x="785" y="491" width="73" height="73"/>
+	<SubTexture name="IconHelmet0003" x="859" y="491" width="73" height="73"/>
+	<SubTexture name="IconHelmet0004" x="933" y="491" width="73" height="73"/>
+	<SubTexture name="IconHelmet0005" x="1" y="569" width="73" height="73"/>
+	<SubTexture name="IconHelmet0006" x="75" y="569" width="73" height="73"/>
+	<SubTexture name="IconHelmet0007" x="149" y="569" width="73" height="73"/>
+	<SubTexture name="IconHelmet0008" x="223" y="569" width="73" height="73"/>
+	<SubTexture name="IconHelmet0009" x="297" y="569" width="73" height="73"/>
+	<SubTexture name="IconHelmet0010" x="371" y="569" width="73" height="73"/>
+	<SubTexture name="IconPotion1_0000" x="445" y="569" width="73" height="73" pivotX="1" pivotY="1"/>
+	<SubTexture name="IconPotion1_0001" x="445" y="569" width="73" height="73"/>
+	<SubTexture name="IconPotion1_0002" x="519" y="569" width="73" height="73"/>
+	<SubTexture name="IconPotion1_0003" x="593" y="569" width="73" height="73"/>
+	<SubTexture name="IconPotion2_0000" x="667" y="569" width="73" height="73" pivotX="1" pivotY="1"/>
+	<SubTexture name="IconPotion2_0001" x="667" y="569" width="73" height="73"/>
+	<SubTexture name="IconPotion2_0002" x="741" y="569" width="73" height="73"/>
+	<SubTexture name="IconPotion2_0003" x="815" y="569" width="73" height="73"/>
+	<SubTexture name="IconPotion3_0000" x="889" y="569" width="73" height="73" pivotX="1" pivotY="1"/>
+	<SubTexture name="IconPotion3_0001" x="1" y="643" width="73" height="73"/>
+	<SubTexture name="IconPotion3_0002" x="75" y="643" width="73" height="73"/>
+	<SubTexture name="IconPotion3_0003" x="149" y="643" width="73" height="73"/>
+	<SubTexture name="IconPotion3_0004" x="223" y="643" width="73" height="73"/>
+	<SubTexture name="IconShield0000" x="297" y="643" width="73" height="73" pivotX="1" pivotY="1"/>
+	<SubTexture name="IconShield0001" x="371" y="643" width="73" height="73"/>
+	<SubTexture name="IconShield0002" x="445" y="643" width="73" height="73"/>
+	<SubTexture name="IconShield0003" x="519" y="643" width="73" height="73"/>
+	<SubTexture name="IconShield0004" x="593" y="643" width="73" height="73"/>
+	<SubTexture name="IconShield0005" x="667" y="643" width="73" height="73"/>
+	<SubTexture name="IconShield0006" x="741" y="643" width="73" height="73"/>
+	<SubTexture name="IconShield0007" x="815" y="643" width="73" height="73"/>
+	<SubTexture name="IconShield0008" x="889" y="643" width="73" height="73"/>
+	<SubTexture name="IconShield0009" x="1" y="717" width="73" height="73"/>
+	<SubTexture name="IconShield0010" x="75" y="717" width="73" height="73"/>
+	<SubTexture name="IconWeapon0000" x="149" y="717" width="73" height="73" pivotX="0.65" pivotY="0.95"/>
+	<SubTexture name="IconWeapon0001" x="223" y="717" width="73" height="73"/>
+	<SubTexture name="IconWeapon0002" x="297" y="717" width="73" height="73"/>
+	<SubTexture name="IconWeapon0003" x="371" y="717" width="73" height="73"/>
+	<SubTexture name="IconWeapon0004" x="445" y="717" width="73" height="73"/>
+	<SubTexture name="IconWeapon0005" x="519" y="717" width="73" height="73"/>
+	<SubTexture name="IconWeapon0006" x="593" y="717" width="73" height="73"/>
+	<SubTexture name="IconWeapon0007" x="667" y="717" width="73" height="73"/>
+	<SubTexture name="IconWeapon0008" x="741" y="717" width="73" height="73"/>
+	<SubTexture name="IconWeapon0009" x="815" y="717" width="73" height="73"/>
+	<SubTexture name="IconWeapon0010" x="889" y="717" width="73" height="73"/>
+	<SubTexture name="IconWeapon0011" x="1" y="791" width="73" height="73"/>
+	<SubTexture name="IconWeapon0012" x="75" y="791" width="73" height="73"/>
+	<SubTexture name="IconWeapon0013" x="149" y="791" width="73" height="73"/>
+	<SubTexture name="IconWeapon0014" x="223" y="791" width="73" height="73"/>
+	<SubTexture name="IconWeapon0015" x="297" y="791" width="73" height="73"/>
+	<SubTexture name="Indicator0000" x="371" y="791" width="41" height="40" pivotX="1" pivotY="1.85"/>
+	<SubTexture name="Indicator0001" x="413" y="791" width="41" height="40"/>
+	<SubTexture name="Page0000" x="455" y="791" width="20" height="20" pivotX="0.95" pivotY="0.95"/>
+	<SubTexture name="Page0001" x="476" y="791" width="20" height="20"/>
+	<SubTexture name="PanelItem0000" x="497" y="791" width="202" height="288" pivotX="1" pivotY="1"/>
+	<SubTexture name="Part_Board0000" x="700" y="791" width="222" height="193" pivotX="1" pivotY="1"/>
+	<SubTexture name="Pause_board0000" x="1" y="1080" width="292" height="212" pivotX="1" pivotY="1"/>
+	<SubTexture name="Price2Field0000" x="294" y="1080" width="68" height="25" pivotX="-10" pivotY="-53.75"/>
+	<SubTexture name="PriceField0000" x="363" y="1080" width="69" height="25" pivotX="-10" pivotY="-53.75"/>
+	<SubTexture name="ProgressFlag0000" x="433" y="1080" width="47" height="52" pivotX="9.05" pivotY="45.7"/>
+	<SubTexture name="ProgressFlag0001" x="481" y="1080" width="47" height="52"/>
+	<SubTexture name="ProgressFlag0002" x="529" y="1080" width="47" height="52"/>
+	<SubTexture name="Sn_level0000" x="577" y="1080" width="23" height="51" pivotX="1" pivotY="1"/>
+	<SubTexture name="Sn_line0000" x="601" y="1080" width="103" height="19" pivotX="1" pivotY="1"/>
+	<SubTexture name="Sn_pic0000" x="705" y="1080" width="31" height="34" pivotX="2" pivotY="2"/>
+	<SubTexture name="Sn_pic0001" x="737" y="1080" width="31" height="34"/>
+	<SubTexture name="Sun0000" x="769" y="1080" width="149" height="149" pivotX="73.7" pivotY="75.15"/>
+	<SubTexture name="Tr_chest0000" x="919" y="1080" width="80" height="65" pivotX="0" pivotY="1"/>
+	<SubTexture name="Tr_coin0000" x="1000" y="1080" width="16" height="17" pivotX="1" pivotY="1"/>
+	<SubTexture name="Tr_frame0000" x="1" y="1293" width="232" height="46" pivotX="2" pivotY="2"/>
+	<SubTexture name="Tr_frame0001" x="234" y="1293" width="232" height="46"/>
+	<SubTexture name="Tr_icon0_0000" x="467" y="1293" width="31" height="35" pivotX="15" pivotY="16.3"/>
+	<SubTexture name="Tr_icon0_0001" x="499" y="1293" width="31" height="35"/>
+	<SubTexture name="Tr_icon1_0000" x="531" y="1293" width="33" height="30" pivotX="15.75" pivotY="13.75"/>
+	<SubTexture name="Tr_icon1_0001" x="565" y="1293" width="33" height="30"/>
+	<SubTexture name="Tr_icon2_0000" x="599" y="1293" width="38" height="37" pivotX="16.65" pivotY="12.65"/>
+	<SubTexture name="Tr_icon2_0001" x="638" y="1293" width="38" height="37"/>
+	<SubTexture name="Tr_icon3_0000" x="677" y="1293" width="33" height="34" pivotX="16.3" pivotY="13.65"/>
+	<SubTexture name="Tr_icon3_0001" x="711" y="1293" width="33" height="34"/>
+	<SubTexture name="Tr_icon4_0000" x="745" y="1293" width="32" height="29" pivotX="17.35" pivotY="12.3"/>
+	<SubTexture name="Tr_icon4_0001" x="778" y="1293" width="32" height="29"/>
+	<SubTexture name="Tr_item0_0000" x="811" y="1293" width="47" height="51" pivotX="22.3" pivotY="20.95"/>
+	<SubTexture name="Tr_item1_0000" x="859" y="1293" width="50" height="44" pivotX="23.95" pivotY="20.25"/>
+	<SubTexture name="Tr_item2_0000" x="910" y="1293" width="54" height="52" pivotX="24.95" pivotY="19.25"/>
+	<SubTexture name="Tr_item3_0000" x="965" y="1293" width="49" height="49" pivotX="27.55" pivotY="20.8"/>
+	<SubTexture name="Tr_item4_0000" x="1" y="1346" width="47" height="44" pivotX="26.05" pivotY="19.9"/>
+	<SubTexture name="Tr_part1_0000" x="49" y="1346" width="43" height="16" pivotX="22.3" pivotY="8.95"/>
+	<SubTexture name="Tr_part2_0000" x="93" y="1346" width="31" height="15" pivotX="14.4" pivotY="7.6"/>
+	<SubTexture name="Tr_part3_0000" x="125" y="1346" width="14" height="25" pivotX="6.6" pivotY="10.7"/>
+	<SubTexture name="Tr_part4_0000" x="140" y="1346" width="28" height="13" pivotX="13.75" pivotY="6.25"/>
+	<SubTexture name="Tr_part5_0000" x="169" y="1346" width="25" height="27" pivotX="1" pivotY="1"/>
+	<SubTexture name="Tr_scroll0000" x="195" y="1346" width="281" height="361" pivotX="11" pivotY="1"/>
+	<SubTexture name="Wall_1_0000" x="477" y="1346" width="213" height="213" pivotX="0" pivotY="0"/>
+	<SubTexture name="Wood0000" x="1" y="1708" width="908" height="120" pivotX="1.5" pivotY="1.5"/>
+	<SubTexture name="btn_start0000" x="910" y="1708" width="100" height="99" pivotX="6.6" pivotY="5.95"/>
+</TextureAtlas>

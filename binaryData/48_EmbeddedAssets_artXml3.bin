@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="art3.png">
+	<!-- Created with Adobe Animate version 18.0.2.126 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Back1_0000" x="1" y="1" width="1309" height="220" pivotX="0" pivotY="0"/>
+	<SubTexture name="Back2_0000" x="1" y="222" width="1303" height="254" pivotX="0.05" pivotY="0"/>
+	<SubTexture name="Back3_0000" x="1" y="477" width="1297" height="202" pivotX="0.05" pivotY="0"/>
+	<SubTexture name="Ground1_0000" x="1299" y="477" width="200" height="200" pivotX="0" pivotY="0"/>
+	<SubTexture name="Ground2_0000" x="1500" y="477" width="204" height="205" pivotX="0" pivotY="0"/>
+	<SubTexture name="Ground3_0000" x="1705" y="477" width="200" height="201" pivotX="0" pivotY="0"/>
+	<SubTexture name="Landscape1_0000" x="1" y="683" width="1300" height="450" pivotX="0" pivotY="0"/>
+	<SubTexture name="Landscape2_0000" x="1" y="1134" width="1303" height="455" pivotX="0" pivotY="0"/>
+	<SubTexture name="Landscape3_0000" x="1" y="1590" width="1300" height="451" pivotX="0" pivotY="0"/>
+</TextureAtlas>
